@@ -72,3 +72,12 @@ Images work a lot like links. Let's start by leaching and image from somewhere.
 First let's give ourselves [A normal link to the image borrowed from genetics.org](https://www.genetics.org/content/genetics/208/2/473/F1.large.jpg?width=800&height=600&carousel=1) To make the borrowed image show up on our page directly, let's refer back to the cheatsheet and learn that you can do it just like an inline link but put an exclamation point in front of it.
 
 ![A normal link to the image borrowed from genetics.org](https://www.genetics.org/content/genetics/208/2/473/F1.large.jpg?width=800&height=600&carousel=1)
+
+### Local Images and Links
+
+Local images and links work like this. We will generate a local link first.
+
+[Link to A44 manuscript image]("./A44_manuscript.jpg")
+
+![Link to A44 manuscript image]("./A44_manuscript.jpg")
+
