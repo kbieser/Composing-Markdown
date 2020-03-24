@@ -77,7 +77,6 @@ First let's give ourselves [A normal link to the image borrowed from genetics.or
 
 Local images and links work like this. We will generate a local link first.
 
-[Link to A44 manuscript image]("./A44_manuscript.jpg")
+[Link to A44 manuscript image](A44_manuscript.jpg)
 
-![Link to A44 manuscript image]("./A44_manuscript.jpg")
-
+![Link to A44 manuscript image](A44_manuscript.jpg)
